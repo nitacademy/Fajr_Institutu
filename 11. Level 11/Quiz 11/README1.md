@@ -1012,3 +1012,205 @@ This expression is connected to the story of ʿUrqūb, who repeatedly delayed fu
 **English Example:**  
 The palm tree produced its blossoms at the beginning of the season.
 
+---
+
+### 51. مُضَادُّ «شَحِيحٍ»
+
+**الْجَوَابُ الصَّحِيحُ:** كَرِيمٌ
+
+**الشَّرْحُ:**  
+الشُّحُّ فِي اللُّغَةِ الْعَرَبِيَّةِ هُوَ أَشَدُّ الْبُخْلِ وَالْحِرْصِ عَلَى الْمَالِ، وَمُضَادُّهُ الْجُودُ وَالْكَرَمُ.
+
+**English Translation:**  
+The opposite of *stingy* is *generous*. Miserliness is extreme stinginess, while generosity is its opposite.
+
+**مِثَالٌ:**  
+الرَّجُلُ الْكَرِيمُ يُسَاعِدُ الْمُحْتَاجِينَ.
+
+**English Example:**  
+A generous man helps those in need.
+
+---
+
+### 52. الْمَقْصُودُ بِـ «تَقَدَّمَتْ بِهِ السِّنُّ»
+
+**الْجَوَابُ الصَّحِيحُ:** شَيْخٌ
+
+**الشَّرْحُ:**  
+هَذِهِ الْعِبَارَةُ كِنَايَةٌ عَنِ الرَّجُلِ الْكَبِيرِ فِي السِّنِّ أَوِ الطَّاعِنِ فِي الْعُمْرِ.
+
+**English Translation:**  
+This expression refers to an elderly man or someone advanced in age.
+
+**مِثَالٌ:**  
+هُوَ شَيْخٌ كَبِيرُ السِّنِّ.
+
+**English Example:**  
+He is an elderly man.
+
+---
+
+### 53. مُرَادِفُ «مَرْعًى»
+
+**الْجَوَابُ الصَّحِيحُ:** مَكَانُ الرَّعْيِ
+
+**الشَّرْحُ:**  
+الْمَرْعَى اسْمُ مَكَانٍ مِنَ الْفِعْلِ «رَعَى»، وَيَعْنِي الْمَوْضِعَ الَّذِي تَرْعَى فِيهِ الْمَاشِيَةُ وَالدَّوَابُّ.
+
+**English Translation:**  
+A pasture is a grazing place where livestock and animals feed.
+
+**مِثَالٌ:**  
+خَرَجَ الرَّاعِي بِالْغَنَمِ إِلَى الْمَرْعَى.
+
+**English Example:**  
+The shepherd took the sheep to the pasture.
+
+---
+
+### 54. «بَرَاقِشُ» اسْمٌ لِـ ...
+
+**الْجَوَابُ الصَّحِيحُ:** أُنْثَى الْكَلْبِ
+
+**الشَّرْحُ:**  
+بَرَاقِشُ كَلْبَةٌ مَشْهُورَةٌ فِي التُّرَاثِ الْعَرَبِيِّ، وَإِلَيْهَا يُنْسَبُ الْمَثَلُ:
+
+«عَلَى أَهْلِهَا جَنَتْ بَرَاقِشُ».
+
+وَذَلِكَ لِأَنَّهَا دَلَّتِ الْأَعْدَاءَ عَلَى قَوْمِهَا بِنُبَاحِهَا.
+
+**English Translation:**  
+Barāqish was a famous female dog in Arabic folklore, associated with the proverb:
+
+*"Barāqish brought disaster upon her own people."*
+
+**English Meaning:**  
+The proverb is used when someone causes harm to themselves or their own group.
+
+---
+
+### 55. الْمَقْصُودُ بِـ «هَاجَمُوهُمْ»
+
+**الْجَوَابُ الصَّحِيحُ:** اعْتَدَوْا عَلَيْهِمْ
+
+**الشَّرْحُ:**  
+الْهُجُومُ يَحْمِلُ مَعْنَى الْمُبَاغَتَةِ وَالْعُدْوَانِ، وَلِذَلِكَ فَإِنَّ أَقْرَبَ مَعْنًى لَهُ هُوَ الِاعْتِدَاءُ.
+
+**English Translation:**  
+"Attacked them" means "assaulted them" or "acted aggressively against them."
+
+**مِثَالٌ:**  
+هَاجَمَ الْأَعْدَاءُ الْقَرْيَةَ لَيْلًا.
+
+**English Example:**  
+The enemies attacked the village at night.
+
+---
+
+# مُرَاجَعَةُ التَّوْصِيلِ (Matching Review)
+
+### 56. زَمَنُ ↔ الصَّيْفِ
+
+**الْكَلِمَةُ الْمُنَاسِبَةُ:** الصَّيْفِ
+
+**الرَّبْطُ:**  
+زَمَنُ الصَّيْفِ.
+
+وَهُوَ تَرْكِيبٌ إِضَافِيٌّ يَدُلُّ عَلَى فَصْلِ الصَّيْفِ مِنْ فُصُولِ السَّنَةِ.
+
+وَيَرْتَبِطُ بِالْمَثَلِ الْعَرَبِيِّ الْمَشْهُورِ:
+
+«فِي الصَّيْفِ ضَيَّعْتِ اللَّبَنَ».
+
+**English Translation:**  
+The time of summer.
+
+This phrase refers to the summer season and is connected with the famous Arabic proverb:
+
+*"In the summer you wasted the milk."*
+
+---
+
+### 57. إِحْدَى ↔ اللَّيَالِي
+
+**الْكَلِمَةُ الْمُنَاسِبَةُ:** اللَّيَالِي
+
+**الرَّبْطُ:**  
+إِحْدَى اللَّيَالِي.
+
+وَهُوَ تَرْكِيبٌ شَائِعٌ فِي بِدَايَةِ الْقَصَصِ وَالْحِكَايَاتِ الْعَرَبِيَّةِ.
+
+**English Translation:**  
+One of the nights.
+
+This expression is commonly used at the beginning of traditional stories and folktales.
+
+**مِثَالٌ:**  
+فِي إِحْدَى اللَّيَالِي اجْتَمَعَ الْقَوْمُ.
+
+**English Example:**  
+One night, the people gathered together.
+
+---
+
+### 58. يَجْلِبُ ↔ الشُّؤْمَ
+
+**الْكَلِمَةُ الْمُنَاسِبَةُ:** الشُّؤْمَ
+
+**الرَّبْطُ:**  
+يَجْلِبُ الشُّؤْمَ.
+
+وَهُوَ تَرْكِيبٌ يَدُلُّ عَلَى التَّسَبُّبِ فِي النَّحْسِ أَوِ الْعَوَاقِبِ السَّيِّئَةِ.
+
+**English Translation:**  
+To bring bad luck or misfortune.
+
+**مِثَالٌ:**  
+كَانُوا يَعْتَقِدُونَ أَنَّ ذَلِكَ يَجْلِبُ الشُّؤْمَ.
+
+**English Example:**  
+They believed that it brought misfortune.
+
+---
+
+### 59. أَقْبَلَ ↔ الْأَعْدَاءُ
+
+**الْكَلِمَةُ الْمُنَاسِبَةُ:** الْأَعْدَاءُ
+
+**الرَّبْطُ:**  
+أَقْبَلَ الْأَعْدَاءُ.
+
+وَهِيَ جُمْلَةٌ فِعْلِيَّةٌ مَكَوَّنَةٌ مِنْ فِعْلٍ وَفَاعِلٍ.
+
+**English Translation:**  
+The enemies approached.
+
+This is a verbal sentence consisting of a verb and its subject.
+
+**مِثَالٌ:**  
+أَقْبَلَ الْأَعْدَاءُ نَحْوَ الْقَرْيَةِ.
+
+**English Example:**  
+The enemies approached the village.
+
+---
+
+### 60. مَكَانُ ↔ الْقَوْمِ
+
+**الْكَلِمَةُ الْمُنَاسِبَةُ:** الْقَوْمِ
+
+**الرَّبْطُ:**  
+مَكَانُ الْقَوْمِ.
+
+وَهُوَ تَرْكِيبٌ إِضَافِيٌّ يَدُلُّ عَلَى الْمَوْضِعِ أَوِ الْمَوْطِنِ الَّذِي يَقِيمُ فِيهِ النَّاسُ.
+
+**English Translation:**  
+The place of the people.
+
+It refers to the location or settlement where a group of people resides.
+
+**مِثَالٌ:**  
+عَرَفَ الْأَعْدَاءُ مَكَانَ الْقَوْمِ.
+
+**English Example:**  
+The enemies discovered the location of the people.
