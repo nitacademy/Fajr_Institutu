@@ -1214,3 +1214,183 @@ It refers to the location or settlement where a group of people resides.
 
 **English Example:**  
 The enemies discovered the location of the people.
+
+
+---
+
+# الْكِنَايَةُ (Kinaayah)
+
+### 61. «يَسِيرُ الْكَرَمُ خَلْفَ أَحْمَدَ» فِي الْجُمْلَةِ تَشْبِيهٌ.
+
+**الْجَوَابُ الصَّحِيحُ:** خَطَأٌ (False)
+
+**الشَّرْحُ:**  
+الْعِبَارَةُ لَيْسَتْ تَشْبِيهًا، بَلْ هِيَ كِنَايَةٌ عَنْ نِسْبَةٍ؛ حَيْثُ نُسِبَ الْكَرَمُ إِلَى شَيْءٍ مُتَّصِلٍ بِأَحْمَدَ وَهُوَ السَّيْرُ خَلْفَهُ.
+
+**English Translation:**  
+The statement is not a simile. Rather, it is a kināyah of attribution because generosity is attributed to something associated with Aḥmad.
+
+**الْقَاعِدَةُ:**  
+كِنَايَةُ النِّسْبَةِ هِيَ إِثْبَاتُ صِفَةٍ لِشَيْءٍ يَتَّصِلُ بِالْمَوْصُوفِ دُونَ ذِكْرِهَا مُبَاشَرَةً لَهُ.
+
+**English Rule:**  
+Kināyah of attribution assigns a quality to something connected to the person instead of attributing it directly.
+
+---
+
+### 62. «الْعَدْلُ فِي رِكَابِ عُمَرَ» كِنَايَةٌ عَنْ نِسْبَةٍ.
+
+**الْجَوَابُ الصَّحِيحُ:** صَحِيحٌ (True)
+
+**الشَّرْحُ:**  
+لَمْ يُنْسَبِ الْعَدْلُ مُبَاشَرَةً إِلَى عُمَرَ، بَلْ نُسِبَ إِلَى رِكَابِهِ وَمَا يَتَّصِلُ بِهِ، وَهَذَا مِنْ كِنَايَةِ النِّسْبَةِ.
+
+**English Translation:**  
+Justice is not attributed directly to ʿUmar but to something associated with him, making it a kināyah of attribution.
+
+---
+
+### 63. «ضَرَبْتُهُ فِي مَوْطِنِ الْأَسْرَارِ» كِنَايَةٌ عَنْ مَوْصُوفٍ.
+
+**الْجَوَابُ الصَّحِيحُ:** صَحِيحٌ (True)
+
+**الشَّرْحُ:**  
+«مَوْطِنُ الْأَسْرَارِ» كِنَايَةٌ عَنِ الْقَلْبِ، فَالْمَوْصُوفُ مَحْذُوفٌ وَيُفْهَمُ مِنَ السِّيَاقِ.
+
+**English Translation:**  
+"The place of secrets" is a kināyah for the heart, making it a kināyah of the described object.
+
+**English Meaning:**  
+The heart is intended without being mentioned directly.
+
+---
+
+### 64. «الصِّدْقُ فِي لِسَانِهِ» كِنَايَةٌ عَنْ صِفَةٍ.
+
+**الْجَوَابُ الصَّحِيحُ:** خَطَأٌ (False)
+
+**الشَّرْحُ:**  
+الْعِبَارَةُ كِنَايَةٌ عَنْ نِسْبَةٍ؛ لِأَنَّ الصِّدْقَ نُسِبَ إِلَى اللِّسَانِ وَلَمْ يُنْسَبْ مُبَاشَرَةً إِلَى صَاحِبِهِ.
+
+**English Translation:**  
+This is a kināyah of attribution because truthfulness is attributed to the tongue rather than directly to the person.
+
+---
+
+### 65. فِي الْكِنَايَةِ عَنْ نِسْبَةٍ يَتِمُّ إِخْفَاءُ الْمَوْصُوفِ مَعَ ذِكْرِ الدَّلِيلِ.
+
+**الْجَوَابُ الصَّحِيحُ:** خَطَأٌ (False)
+
+**الشَّرْحُ:**  
+فِي كِنَايَةِ النِّسْبَةِ يُذْكَرُ الْمَوْصُوفُ وَالصِّفَةُ، وَلَكِنْ لَا تُنْسَبُ الصِّفَةُ إِلَيْهِ مُبَاشَرَةً.
+
+**English Translation:**  
+In kināyah of attribution, the person and the quality are both known, but the quality is attached indirectly.
+
+---
+
+### 66. فِي الْكِنَايَةِ عَنْ مَوْصُوفٍ يَتِمُّ ذِكْرُ الصِّفَةِ وَالْمَوْصُوفِ.
+
+**الْجَوَابُ الصَّحِيحُ:** خَطَأٌ (False)
+
+**الشَّرْحُ:**  
+فِي كِنَايَةِ الْمَوْصُوفِ تُذْكَرُ الصِّفَاتُ الدَّالَّةُ عَلَيْهِ، وَيُحْذَفُ الْمَوْصُوفُ نَفْسُهُ.
+
+**English Translation:**  
+In kināyah of the described object, the qualities are mentioned while the object itself is omitted.
+
+---
+
+### 67. «مُحَمَّدٌ كَثِيرُ الزُّوَّارِ» كِنَايَةٌ عَنْ صِفَةٍ.
+
+**الْجَوَابُ الصَّحِيحُ:** صَحِيحٌ (True)
+
+**الشَّرْحُ:**  
+كَثْرَةُ الزُّوَّارِ تَدُلُّ عَلَى صِفَةِ الْكَرَمِ وَالْجُودِ، فَهِيَ كِنَايَةٌ عَنْ صِفَةٍ.
+
+**English Translation:**  
+Having many visitors implies generosity and hospitality, making it a kināyah of a quality.
+
+---
+
+### 68. «هَلْ أَحْضَرْتَ قَاطِعَ الرِّقَابِ؟» كِنَايَةٌ عَنْ نِسْبَةٍ.
+
+**الْجَوَابُ الصَّحِيحُ:** خَطَأٌ (False)
+
+**الشَّرْحُ:**  
+«قَاطِعُ الرِّقَابِ» يُرَادُ بِهِ السَّيْفُ، فَهُوَ كِنَايَةٌ عَنْ مَوْصُوفٍ.
+
+**English Translation:**  
+"Neck-cutter" refers to a sword, making it a kināyah of the described object.
+
+---
+
+### 69. «تَتَّبِعُ الْحَيَاءُ خُطُوَاتِ مَرْيَمَ» كِنَايَةٌ عَنْ مَوْصُوفٍ.
+
+**الْجَوَابُ الصَّحِيحُ:** خَطَأٌ (False)
+
+**الشَّرْحُ:**  
+نُسِبَ الْحَيَاءُ إِلَى خُطُوَاتِ مَرْيَمَ، وَلِذَلِكَ فَهِيَ كِنَايَةٌ عَنْ نِسْبَةٍ.
+
+**English Translation:**  
+Modesty is attributed to Mary's footsteps, making this a kināyah of attribution.
+
+---
+
+### 70. «اصْفَرَّ وَجْهُ الطَّالِبِ» كِنَايَةٌ عَنْ نِسْبَةٍ.
+
+**الْجَوَابُ الصَّحِيحُ:** خَطَأٌ (False)
+
+**الشَّرْحُ:**  
+اصْفِرَارُ الْوَجْهِ يَدُلُّ عَلَى الْخَوْفِ أَوِ الْمَرَضِ، فَهُوَ كِنَايَةٌ عَنْ صِفَةٍ.
+
+**English Translation:**  
+A pale face suggests fear or illness, making it a kināyah of a quality.
+
+---
+
+### 71. «جَاءَ قَابِضَ يَدِهِ» كِنَايَةٌ عَنْ صِفَةٍ.
+
+**الْجَوَابُ الصَّحِيحُ:** صَحِيحٌ (True)
+
+**الشَّرْحُ:**  
+قَبْضُ الْيَدِ يُكَنَّى بِهِ عَنِ الْبُخْلِ وَالشُّحِّ.
+
+**English Translation:**  
+A clenched hand is a kināyah for stinginess and miserliness.
+
+---
+
+### 72. «الْوَزِيرُ بَطْنُهُ كَبِيرٌ» كِنَايَةٌ عَنْ مَوْصُوفٍ.
+
+**الْجَوَابُ الصَّحِيحُ:** خَطَأٌ (False)
+
+**الشَّرْحُ:**  
+كِبَرُ الْبَطْنِ يُسْتَعْمَلُ كِنَايَةً عَنْ صِفَةٍ كَالطَّمَعِ وَالْجَشَعِ، وَلَيْسَ كِنَايَةً عَنْ مَوْصُوفٍ.
+
+**English Translation:**  
+A large belly is used figuratively for greed or gluttony, making it a kināyah of a quality.
+
+---
+
+### 73. «أَشْرَقَ الْقُرْصُ السَّاطِعُ» كِنَايَةٌ عَنْ مَوْصُوفٍ.
+
+**الْجَوَابُ الصَّحِيحُ:** صَحِيحٌ (True)
+
+**الشَّرْحُ:**  
+«الْقُرْصُ السَّاطِعُ» تَعْبِيرٌ يُرَادُ بِهِ الشَّمْسُ، وَهِيَ الْمَوْصُوفُ الْمَقْصُودُ.
+
+**English Translation:**  
+"The shining disc" refers to the sun, making it a kināyah of the described object.
+
+**الْقَاعِدَةُ الْعَامَّةُ:**  
+
+1. **كِنَايَةُ عَنْ صِفَةٍ**: يُرَادُ بِهَا إِثْبَاتُ صِفَةٍ مِثْلَ الْكَرَمِ أَوِ الْبُخْلِ.  
+2. **كِنَايَةُ عَنْ مَوْصُوفٍ**: يُرَادُ بِهَا شَخْصٌ أَوْ شَيْءٌ مَحْذُوفٌ يُفْهَمُ مِنَ السِّيَاقِ.  
+3. **كِنَايَةُ عَنْ نِسْبَةٍ**: يُنْسَبُ الْمَعْنَى إِلَى شَيْءٍ مُتَّصِلٍ بِالْمَوْصُوفِ دُونَ ذِكْرِهِ مُبَاشَرَةً.
+
+**General English Rule:**
+
+1. **Kināyah of Quality**: Indicates a characteristic such as generosity or stinginess.  
+2. **Kināyah of Described Object**: Refers to a person or thing indirectly through its qualities.  
+3. **Kināyah of Attribution**: Attributes a quality to something associated with the person rather than directly to the person.
